@@ -818,7 +818,8 @@ input:focus {
     position: relative;
     z-index: 1; }
     .single-product-area .product-thumbnail img {
-      width: 100%; }
+   width: 100%;
+    }
     .single-product-area .product-thumbnail .product-tags {
       position: absolute;
       left: 20px;
